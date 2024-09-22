@@ -1,6 +1,8 @@
 ## Interface: 110002
 ## Title: Grid2 |cd1ff7d0aStatusSpecRole|r
 ## Notes: Displays role based on player specialization
+## Author: MiCHaeL
+## Version: @project-version@
 ## Dependencies: Grid2
 
 Libs\LibGroupInSpecT-1.1\LibGroupInSpecT-1.1.lua
