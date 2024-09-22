@@ -1,0 +1,4 @@
+package-as: Grid2StatusSpecRole
+
+externals:
+ Libs\LibGroupInSpecT-1.1: https://repos.curseforge.com/wow/libgroupinspect/trunk
