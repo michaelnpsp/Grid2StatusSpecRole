@@ -69,7 +69,7 @@ function SpecRole:IsActive(unit)
 end
 
 function SpecRole:GetText(unit)
-	return role_cache[unit]
+	return role_texts[ role_cache[unit] ]
 end
 
 function SpecRole:GetIcon(unit)
