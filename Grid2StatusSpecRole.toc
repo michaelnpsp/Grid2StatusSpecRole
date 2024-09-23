@@ -3,8 +3,12 @@
 ## Notes: Displays role based on player specialization.
 ## Author: MiCHaeL
 ## Version: @project-version@
+## X-Curse-Project-ID: 1108099
+## X-Wago-ID: kGr0pe6y
 ## Dependencies: Grid2
 
 Libs\LibGroupInSpecT-1.1\LibGroupInSpecT-1.1.lua
 
 Grid2StatusSpecRole.lua
+
+
