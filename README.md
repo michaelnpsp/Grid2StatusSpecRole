@@ -1,6 +1,6 @@
 # Grid2StatusSpecRole
 
-This is a plugin for the addon World of Wacraft Grid2 that shows the role status of players in raid or group based on the specialization and talents of each player.
+This is a plugin for the World of Wacraft addon: Grid2 that shows the role status of players in raid or group based on the specialization and talents of each player.
  
 ## Features:  
 
