@@ -10,10 +10,10 @@ local unpack = unpack
 local roster_guids = Grid2.roster_guids
 
 local role_texts = {
-	tank = L['TANK'],
-	melee = L['melee'],
-	ranged = L['ranged'],
-	healer = L['HEALER'],
+	tank = L['Tank'],
+	melee = L['Melee'],
+	ranged = L['Ranged'],
+	healer = L['Healer'],
 }
 
 local role_coords_all = { {
@@ -131,10 +131,10 @@ function Grid2:LoadOptions()
 			end,
 		}
 	end , {
-		color1 = LG["TANK"],
-		color2 = LG["HEALER"],
-		color3 = LG["melee"],
-		color4 = LG["ranged"],
+		color1 = L["Tank"],
+		color2 = L["Healer"],
+		color3 = L["Melee"],
+		color4 = L["Ranged"],
 		width = "full",
 		titleIcon = "Interface\\LFGFrame\\UI-LFG-ICON-PORTRAITROLES",
 		titleIconCoords = {0,0.65,0,0.65},
