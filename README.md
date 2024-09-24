@@ -1,3 +1,10 @@
 # Grid2StatusSpecRole
 
-Role status for Grid2 addon based on specialization. Displayed roles are: tank, healer, melee, ranged.
+This is a plugin for the addon World of Wacraft Grid2 that shows the role status of players in raid or group based on the specialization and talents of each player.
+ 
+## Features:  
+
+- This plugin provides a status called "spec-role" for  the Grid2 addon.
+- Displayed roles are: tank, healer, melee & ranged.
+- The status is compatible with icon, text and color indicators.
+- It's only compatible with World of Warcraft retail version.
