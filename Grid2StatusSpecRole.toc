@@ -1,5 +1,5 @@
 ## Interface: 110007
-## Title: Grid2 |cd1ff7d0aStatusSpecRole|r
+## Title: Grid2 |cd1ff7d0aStatus SpecRole|r
 ## Notes: Displays role based on player specialization.
 ## Author: MiCHaeL
 ## Version: @project-version@
